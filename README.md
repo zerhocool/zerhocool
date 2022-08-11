@@ -15,7 +15,7 @@
 <br>
 
 <a href="https://t.me/zerhocool">
-<img align="right" height="auto" width="580" src="https://github.com/zerhocool/milogo/blob/main/javascript.gif?raw=true"/> 
+<img align="right" height="auto" width="400" src="https://github.com/zerhocool/milogo/blob/main/javascript.gif?raw=true"/> 
 </a>
 
 
