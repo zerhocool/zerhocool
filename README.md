@@ -1,5 +1,11 @@
 # Hola, Andres Antonio Cardoso esta AQUI! 👋
 
+<a href="https://t.me/zerhocool">
+<img align="center" height="auto" width="300px" src="https://github.com/zerhocool/milogo/blob/main/javascript.gif?raw=true"/> 
+</a>
+</p>
+
+<br>
 
 `Tercera ley de Clarke; Cualquier tecnología lo suficientemente avanzada es indistinguible de la magia.`<br>
 
@@ -26,12 +32,8 @@ En una búsqueda por mantenerme siempre actualizado, leo libros, asisto a confer
 </p>
 
 
-<a href="https://t.me/zerhocool">
-<img align="right" height="auto" width="200px" src="https://github.com/zerhocool/milogo/blob/main/javascript.gif?raw=true"/> 
-</a>
-
-
 <br>
+
 
 ## LENGUAJE Y HERRARIENTAS 📚
 <br>
